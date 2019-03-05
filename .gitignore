@@ -1,0 +1,9 @@
+/.idea
+/out
+*.class
+
+.properties
+.log
+.project
+.classpath
+.settings

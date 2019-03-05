@@ -1,6 +1,7 @@
 /.idea
 /out
 *.class
+/target
 
 .properties
 .log
